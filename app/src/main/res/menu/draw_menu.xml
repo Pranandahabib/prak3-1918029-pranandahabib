@@ -4,9 +4,9 @@
     tools:showIn="navigation_view">
 
     <group android:checkableBehavior="single">
-    <item android:id="@+id/nav_message"
-     android:icon="@drawable/ic_message"
-    android:title="message"/>
+    <item android:id="@+id/nav_status"
+     android:icon="@drawable/ic_baseline_refresh_24"
+    android:title="Status"/>
 
     <item android:id="@+id/nav_chat"
         android:icon="@drawable/ic_baseline_chat_bubble_24"
